@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Fragment.SEngFragment"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:rowCount="3"
+    android:columnCount="3">
+
+    <ImageButton
+        android:layout_height="45dp"
+        android:layout_width="65dp"
+        android:src="@drawable/shift"
+        android:scaleType="fitCenter"
+        android:padding="6dp"
+        android:background="@android:color/white"/>
+
+    <Button
+        android:layout_gravity="center"
+        android:layout_height="45dp"
+        android:layout_width="65dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="@string/chin_eng2"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:background="@android:color/white"/>
+
+    <Button
+        android:layout_height="45dp"
+        android:layout_width="65dp"
+        android:text="@string/chin_eng3"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:background="@android:color/white"/>
+
+    <Button
+        android:layout_height="45dp"
+        android:layout_width="65dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="@string/chin_eng4"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:background="@android:color/white"/>
+
+    <Button
+        android:id="@+id/start"
+        android:background="@drawable/red_cross"
+        android:layout_gravity="center"
+        android:layout_height="45dp"
+        android:layout_width="65dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="@string/chin_eng5"
+        android:textAllCaps="false"
+        android:textSize="20sp"/>
+
+    <Button
+        android:layout_height="45dp"
+        android:layout_width="65dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="@string/chin_eng6"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:background="@android:color/white"/>
+
+    <Button
+        android:layout_height="45dp"
+        android:layout_width="65dp"
+        android:text="@string/chin_eng7"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:background="@android:color/white"/>
+
+    <Button
+        android:layout_gravity="center"
+        android:layout_height="45dp"
+        android:layout_width="65dp"
+        android:layout_marginBottom="10dp"
+        android:text="@string/chin_eng8"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:background="@android:color/white"/>
+
+    <Button
+        android:layout_height="45dp"
+        android:layout_width="65dp"
+        android:text="@string/chin_eng9"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:background="@android:color/white"/>
+</GridLayout>

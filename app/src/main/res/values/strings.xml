@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Typing</string>
+
+    <string name="confirm">确定</string>
+    <string name="start">开始实验</string>
+    <string name="sub_id">被试编号：</string>
+
+    <string name="num">123</string>
+    <string name="sign">符号</string>
+    <string name="chin">中/英</string>
+    <string name="eng">中/英</string>
+    <string name="space">空格</string>
+    <string name="clr">重输</string>
+    <string name="send">发送</string>
+
+    <string name="chin_eng2">abc</string>
+    <string name="chin_eng3">def</string>
+    <string name="chin_eng4">ghi</string>
+    <string name="chin_eng5">jkl</string>
+    <string name="chin_eng6">mno</string>
+    <string name="chin_eng7">pqrs</string>
+    <string name="chin_eng8">tuv</string>
+    <string name="chin_eng9">wxyz</string>
+
+    <string name="num0">0</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">8</string>
+
+    <string name="sign1">,</string>
+    <string name="sign2">\ \ 。</string>
+    <string name="sign3">\?</string>
+    <string name="sign4">!</string>
+    <string name="sign5">\ \ 、</string>
+    <string name="sign6">+</string>
+    <string name="sign7">(</string>
+    <string name="sign8">“</string>
+    <string name="sign9">~</string>
+
+    <string-array name="gender_array">
+        <item>男性</item>
+        <item>女性</item>
+    </string-array>
+
+    <string-array name="handedness_array">
+        <item>右利手</item>
+        <item>左利手</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
